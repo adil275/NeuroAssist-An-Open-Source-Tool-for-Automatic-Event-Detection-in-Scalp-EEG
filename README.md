@@ -1,6 +1,4 @@
-**NeuroAssist: An Open-Source Tool for**
-
-**Automatic Event Detection in Scalp EEG**
+# NeuroAssist: An Open-Source Tool for Automatic Event Detection in Scalp EEG
 
 **Authors:** 	Muhammad Ali Alqarni, Adil Jowad Qureshi, Muiz Alvi, Haziq Arbab, Hira Masood, Hassan Aqeel Khan, Awais Mehmood Kamboh, Saima Shafait and Faisal Shafait
 
