@@ -34,23 +34,22 @@ Deep Learning Laboratory, National Center of Artificial Intelligence, Islamabad,
     $ python window_tracker.py
     ```
 
-**This step is required before using the machine learning notebook**
-
-1. **Now open the  machinelearning\_models.ipynb notebook in Jupyter Notebook or VS Code (with Jupyter extension) and run each cell step by step to reproduce our results**
+1. Now open the  machinelearning_models.ipynb notebook in Jupyter Notebook or VS Code (with Jupyter extension) and run each cell step by step to reproduce our results
 
 **Follow these steps to make predictions on an entire EEG waveform:**
 
-1. **Choose an EEG waveform (in EDF format), along with its corresponding CSV file from the raw\_data folder**
-1. **Open the following notebook in Jupyter Notebook or VS Code (with Jupyter extension):**
+1. Choose an EEG waveform (in EDF format), along with its corresponding CSV file from the raw_data folder
+1. Open the following notebook in Jupyter Notebook or VS Code (with Jupyter extension):
 
-**Insert Notebook name here**
+    **Insert Notebook name here**
 
-1. **Run each cell step by step**
-1. **When prompted, enter the name of the EEG file you wish to make predictions on. The code will produce a single EEG plot with labels (in the form of rectangles) and predictions (in the form of shading)**
+1. Run each cell step by step
+1. When prompted, enter the name of the EEG file you wish to make predictions on. The code will produce a single EEG plot with labels (in the form of rectangles) and predictions (in the form of shading)
 
 **Note: Use random seed of 444 for reproducing more similar results** 
 **Please ensure a GPU enabled machine for faster inference and training times.** 
 **Running these code should [ Insert text here ]**
+**This step is required before using the machine learning notebook**
 **The following is a table of file descriptions:**	
 
 
