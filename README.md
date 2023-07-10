@@ -25,6 +25,7 @@ Deep Learning Laboratory, National Center of Artificial Intelligence, Islamabad,
     '''
         $ python abnormal_img_extractor.py
         $ python normal_img_extractor.py
+        
     '''
 
 
