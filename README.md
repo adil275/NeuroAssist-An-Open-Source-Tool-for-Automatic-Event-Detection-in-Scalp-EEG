@@ -14,16 +14,14 @@ Deep Learning Laboratory, National Center of Artificial Intelligence, Islamabad,
 1. Clone the entire repository
 1. Download the dataset using the following link:
 1. Place the downloaded dataset along with all the feature files and relevant model files inside the directory of the experiment you want to execute. The code expects these files to be present in the experiment's root folder
-1. **Ensure your execution environment has the following Python dependencies installed and working:**
+1. Ensure your execution environment has the following Python dependencies installed and working:
 - 1. **Python 3.9 or above**
 - 2. **Python MNE library**
 - 3. **Keras and Tensorflow**
 - 4. **Scikit-learn**
 
-
-
-1. **Open the terminal inside the directory of the experiment** 
-1. **Execute the following commands in order:**
+1. Open the terminal inside the directory of the experiment
+1. Execute the following commands in order:
 
 **$ python abnormal\_img\_extractor.py**
 
