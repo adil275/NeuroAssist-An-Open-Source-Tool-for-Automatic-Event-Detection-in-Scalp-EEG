@@ -3,10 +3,10 @@
 **Authors:** 	Muhammad Ali Alqarni, Adil Jowad Qureshi, Muiz Alvi, Haziq Arbab, Hira Masood, Hassan Aqeel Khan, Awais Mehmood Kamboh, Saima Shafait and Faisal Shafait
 
 **Affiliations:**	
-### School of Electrical Engineering and Computer Science, National University of Sciences and Technology, Islamabad, Pakistan
-### College of Computer Science and Engineering, University of Jeddah, Jeddah, Saudi Arabia
-### Pak-Emirates Military Hospital, Abid Majeed Road Rawalpindi, Pakistan
-### Deep Learning Laboratory, National Center of Artificial Intelligence, Islamabad, Pakistan
+School of Electrical Engineering and Computer Science, National University of Sciences and Technology, Islamabad, Pakistan
+College of Computer Science and Engineering, University of Jeddah, Jeddah, Saudi Arabia
+Pak-Emirates Military Hospital, Abid Majeed Road Rawalpindi, Pakistan
+Deep Learning Laboratory, National Center of Artificial Intelligence, Islamabad, Pakistan
 
 
 **Follow these steps to execute model comparison experiments and reproduce reported results:**
