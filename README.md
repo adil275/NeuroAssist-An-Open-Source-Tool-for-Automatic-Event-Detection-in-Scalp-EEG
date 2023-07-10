@@ -22,10 +22,11 @@ Deep Learning Laboratory, National Center of Artificial Intelligence, Islamabad,
 1. Open the terminal inside the directory of the experiment
 1. Execute the following commands in order:
 
-'''
-    $ python abnormal_img_extractor.py
-'''
-
+```
+git status
+git add
+git commit
+```
 
 **Running these code should [ Insert text here ]**
 
