@@ -46,10 +46,10 @@ Deep Learning Laboratory, National Center of Artificial Intelligence, Islamabad,
 1. Run each cell step by step
 1. When prompted, enter the name of the EEG file you wish to make predictions on. The code will produce a single EEG plot with labels (in the form of rectangles) and predictions (in the form of shading)
 
-**Note: Use random seed of 444 for reproducing more similar results** 
-**Please ensure a GPU enabled machine for faster inference and training times.** 
-**Running these code should [ Insert text here ]**
-**This step is required before using the machine learning notebook**
+**Please Note:** 
+1. Use random seed of 444 for reproducing more similar results
+1. A GPU enabled machine is recommended for faster inference and processing times
+
 **The following is a table of file descriptions:**	
 
 
