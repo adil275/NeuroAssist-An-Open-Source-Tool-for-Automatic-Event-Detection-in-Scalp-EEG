@@ -11,9 +11,9 @@ Deep Learning Laboratory, National Center of Artificial Intelligence, Islamabad,
 
 **Follow these steps to execute model comparison experiments and reproduce reported results:**
 
-1. **Clone the entire repository**
-1. **Download the dataset using the following link:** 
-1. **Place the downloaded dataset along with all the feature files and relevant model files inside the directory of the experiment you want to execute. The code expects these files to be present in the experiment's root folder**
+1. Clone the entire repository
+1. Download the dataset using the following link:
+1. Place the downloaded dataset along with all the feature files and relevant model files inside the directory of the experiment you want to execute. The code expects these files to be present in the experiment's root folder**
 1. **Ensure your execution environment has the following Python dependencies installed and working:**
 - **Python 3.9 or above**
 - **Python MNE library**
