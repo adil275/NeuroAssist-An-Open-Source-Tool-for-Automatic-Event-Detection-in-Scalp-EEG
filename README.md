@@ -27,12 +27,12 @@ Deep Learning Laboratory, National Center of Artificial Intelligence, Islamabad,
     $ python normal_img_extractor.py
     ```
 
-**Running these code should [ Insert text here ]**
+1. Once completed, open the deeplearning_models.ipynb notebook in Jupyter Notebook or VS Code (with Jupyter extension) and run each cell step by step to reproduce our results
+1. Once these steps are completed, run the following command:
 
-1. **Once completed, open the deeplearning\_models.ipynb notebook in Jupyter Notebook or VS Code (with Jupyter extension) and run each cell step by step to reproduce our results**
-1. **Once these steps are completed, run the following command:**
-
-**$ python window\_tracker.py**
+    ```
+    $ python window_tracker.py
+    ```
 
 **This step is required before using the machine learning notebook**
 
@@ -50,6 +50,7 @@ Deep Learning Laboratory, National Center of Artificial Intelligence, Islamabad,
 
 **Note: Use random seed of 444 for reproducing more similar results** 
 **Please ensure a GPU enabled machine for faster inference and training times.** 
+**Running these code should [ Insert text here ]**
 **The following is a table of file descriptions:**	
 
 
