@@ -15,10 +15,10 @@ Deep Learning Laboratory, National Center of Artificial Intelligence, Islamabad,
 1. Download the dataset using the following link:
 1. Place the downloaded dataset along with all the feature files and relevant model files inside the directory of the experiment you want to execute. The code expects these files to be present in the experiment's root folder
 1. **Ensure your execution environment has the following Python dependencies installed and working:**
-- **Python 3.9 or above**
-- **Python MNE library**
-- **Keras and Tensorflow**
-- **Scikit-learn**
+- 1. **Python 3.9 or above**
+- 1. **Python MNE library**
+- 1. **Keras and Tensorflow**
+- 1. **Scikit-learn**
 
 
 
