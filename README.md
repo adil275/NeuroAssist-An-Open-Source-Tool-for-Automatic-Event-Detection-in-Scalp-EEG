@@ -13,14 +13,14 @@ Deep Learning Laboratory, National Center of Artificial Intelligence, Islamabad,
 
 1. Clone the entire repository
 1. Download the dataset using the following link:
-1. Place the downloaded dataset along with all the feature files and relevant model files inside the directory of the experiment you want to execute. The code expects these files to be present in the experiment's root folder**
+1. Place the downloaded dataset along with all the feature files and relevant model files inside the directory of the experiment you want to execute. The code expects these files to be present in the experiment's root folder
 1. **Ensure your execution environment has the following Python dependencies installed and working:**
 - **Python 3.9 or above**
 - **Python MNE library**
 - **Keras and Tensorflow**
 - **Scikit-learn**
 
-**Please ensure a GPU enabled machine for faster inference and training times.** 
+
 
 1. **Open the terminal inside the directory of the experiment** 
 1. **Execute the following commands in order:**
@@ -51,7 +51,7 @@ Deep Learning Laboratory, National Center of Artificial Intelligence, Islamabad,
 1. **When prompted, enter the name of the EEG file you wish to make predictions on. The code will produce a single EEG plot with labels (in the form of rectangles) and predictions (in the form of shading)**
 
 **Note: Use random seed of 444 for reproducing more similar results** 
-
+**Please ensure a GPU enabled machine for faster inference and training times.** 
 **The following is a table of file descriptions:**	
 
 
