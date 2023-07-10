@@ -22,11 +22,9 @@ Deep Learning Laboratory, National Center of Artificial Intelligence, Islamabad,
 1. Open the terminal inside the directory of the experiment
 1. Execute the following commands in order:
 
-    '''
-        $ python abnormal_img_extractor.py
-        $ python normal_img_extractor.py
-        
-    '''
+'''
+    $ python abnormal_img_extractor.py
+'''
 
 
 **Running these code should [ Insert text here ]**
